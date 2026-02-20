@@ -78,10 +78,8 @@ body{
     padding: 10px;
     border-radius: 30px;
 }
-.saleimage{
+.Saleimage img{
     width: 100%;
-    position: relative;
-
 }
 .offer{
     width: 35%;
